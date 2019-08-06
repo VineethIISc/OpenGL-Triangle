@@ -2,6 +2,7 @@
 
 Draw a triangle:
   1) draw a triangle in with default shaders
+  2) glew is used for opengl functions
   
 Output Image:
 ![](images/output.png)
